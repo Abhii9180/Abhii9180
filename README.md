@@ -77,7 +77,7 @@ AWS · Render · Netlify · Git/GitHub
 ## 📫 Connect With Me
 
 🌐 GitHub: **[https://github.com/Abhii9180](https://github.com/Abhii9180)**
-💼 LinkedIn: *(Add your link here)*
+💼 LinkedIn: *linkedin.com/in/abhyuday-pratap-singh-146b37247*
 📧 Email: *abhyudaypratapsingh739@gmail.com*
 
 ---
